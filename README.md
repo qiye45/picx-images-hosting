@@ -22,7 +22,7 @@ Token令牌用于个人身份验证，不需要密码也可以直接访问你的
 
 ![image](https://github.com/user-attachments/assets/553d9373-da1c-4a13-bf66-2fb0424835c3)
 
-2. 打开https://picx.xpoet.cn/#/config，填上刚刚生成的token
+2. 打开https://picx.xpoet.cn/#/config ，填上刚刚生成的token
 
 ![image](https://github.com/user-attachments/assets/842d206a-d2f1-4d42-b60d-a6adff73ac86)
 
